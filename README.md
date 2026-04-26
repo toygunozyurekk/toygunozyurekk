@@ -7,14 +7,9 @@ product needs to live on iOS. My focus is on the parts that actually
 break in production: tool orchestration, long-horizon memory,
 evaluation, and tracing.
 
-Model-agnostic by default — I work across **OpenAI, Anthropic, Gemini**
-and open-weight models, and follow the frontier closely.
-
-Deep agents with **LangChain · LangGraph · LangSmith**.
-
 ---
 
-### 🧰 Languages & Tools
+### Languages & Tools
 
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
