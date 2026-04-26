@@ -1,4 +1,4 @@
-### `Generative AI · Agentic Systems · LLM Engineering`
+### `Generative AI · Agentic Systems · AI Engineering`
 
 Building production-grade LLM systems and agentic architectures.
 I work end-to-end across the stack — Python on the backend for agents,
